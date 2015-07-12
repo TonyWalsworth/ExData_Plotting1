@@ -1,5 +1,5 @@
 # code for Exploratory data analysis course project 1 - Plot 1.
-
+# It is assumed that the required data file is present in the current working directory.
 ##
 # grabData() reads a selected subset of household_power_consumption.txt, (lines 66639 to 69518)
 # Each line is a single string containing 9 variable values delimited by ";" 
